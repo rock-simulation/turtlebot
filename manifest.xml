@@ -1,0 +1,7 @@
+<package>
+  <description brief="Model of simple turtlebot">
+  Simple robot used in lecture.
+  </description>
+  <author>Malte Langosz/malte.langosz@dfki.de</author>
+  <tags>no_install</tags>
+</package>
